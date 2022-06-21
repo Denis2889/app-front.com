@@ -1,0 +1,1 @@
+var APIS_URL = "http://tanizcdy.lucusvirtual.es";
